@@ -1,0 +1,16 @@
+# Data & outputs (never commit these)
+data/
+models/
+reports/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environments
+venv/
+.venv/
+
+# OS files
+.DS_Store
+Thumbs.db
