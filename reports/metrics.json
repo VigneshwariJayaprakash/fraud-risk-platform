@@ -1,0 +1,48 @@
+{
+  "rows_total": 300000,
+  "rows_train": 210000,
+  "rows_val": 45000,
+  "rows_test": 45000,
+  "fraud_rate_train": 0.03019047619047619,
+  "best_threshold_by_mcc_val": 0.8439478874206543,
+  "mcc_val": 0.5586564395199931,
+  "ap_val": 0.5872894994133414,
+  "mcc_test": 0.5045895678138191,
+  "ap_test": 0.5019532501766976,
+  "classification_report_test": {
+    "0": {
+      "precision": 0.975301355247327,
+      "recall": 0.9935249635779201,
+      "f1-score": 0.9843288198501615,
+      "support": 43243.0
+    },
+    "1": {
+      "precision": 0.7049525816649105,
+      "recall": 0.38076266363118955,
+      "f1-score": 0.49445676274944567,
+      "support": 1757.0
+    },
+    "accuracy": 0.9696,
+    "macro avg": {
+      "precision": 0.8401269684561188,
+      "recall": 0.6871438136045548,
+      "f1-score": 0.7393927912998036,
+      "support": 45000.0
+    },
+    "weighted avg": {
+      "precision": 0.9647457375765646,
+      "recall": 0.9696,
+      "f1-score": 0.9652020375318069,
+      "support": 45000.0
+    }
+  },
+  "scale_pos_weight": 32.12302839116719,
+  "entity_cols": [
+    "card1",
+    "card2",
+    "addr1",
+    "P_emaildomain",
+    "DeviceType"
+  ],
+  "rolling_k": 5
+}

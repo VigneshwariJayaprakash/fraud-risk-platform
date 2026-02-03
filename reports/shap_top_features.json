@@ -1,0 +1,82 @@
+[
+  {
+    "feature": "card6",
+    "mean_abs_shap": 0.28978288173675537
+  },
+  {
+    "feature": "addr1",
+    "mean_abs_shap": 0.2674812078475952
+  },
+  {
+    "feature": "C13",
+    "mean_abs_shap": 0.24867933988571167
+  },
+  {
+    "feature": "M4",
+    "mean_abs_shap": 0.24339592456817627
+  },
+  {
+    "feature": "card1",
+    "mean_abs_shap": 0.22716619074344635
+  },
+  {
+    "feature": "P_emaildomain",
+    "mean_abs_shap": 0.21761702001094818
+  },
+  {
+    "feature": "TransactionAmt",
+    "mean_abs_shap": 0.21317946910858154
+  },
+  {
+    "feature": "C1",
+    "mean_abs_shap": 0.2108968049287796
+  },
+  {
+    "feature": "TransactionDT",
+    "mean_abs_shap": 0.19839946925640106
+  },
+  {
+    "feature": "D2",
+    "mean_abs_shap": 0.15775349736213684
+  },
+  {
+    "feature": "C14",
+    "mean_abs_shap": 0.15716196596622467
+  },
+  {
+    "feature": "card2",
+    "mean_abs_shap": 0.15685836970806122
+  },
+  {
+    "feature": "D11",
+    "mean_abs_shap": 0.13589376211166382
+  },
+  {
+    "feature": "D1",
+    "mean_abs_shap": 0.1342749446630478
+  },
+  {
+    "feature": "R_emaildomain",
+    "mean_abs_shap": 0.12565091252326965
+  },
+  {
+    "feature": "card5",
+    "mean_abs_shap": 0.1211496964097023
+  },
+  {
+    "feature": "M3",
+    "mean_abs_shap": 0.11171718686819077
+  },
+  {
+    "feature": "D4",
+    "mean_abs_shap": 0.10698243230581284
+  },
+  {
+    "feature": "M6",
+    "mean_abs_shap": 0.1061471551656723
+  },
+  {
+    "feature": "M5",
+    "mean_abs_shap": 0.10499854385852814
+  }
+]

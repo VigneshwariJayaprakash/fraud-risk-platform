@@ -1,7 +1,6 @@
-# Data & outputs (never commit these)
-data/
-models/
-reports/
+# Raw data (never commit Kaggle datasets)
+data/raw/
+*.csv
 
 # Python cache
 __pycache__/
@@ -14,3 +13,6 @@ venv/
 # OS files
 .DS_Store
 Thumbs.db
+
+# Optional: model artifacts (can be large)
+models/
